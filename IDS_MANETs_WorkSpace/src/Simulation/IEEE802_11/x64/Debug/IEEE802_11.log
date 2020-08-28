@@ -1,0 +1,80 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  CSMACA.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Generic_RateAdaptation.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  IEEE1609_interface.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  IEEE802.11_OFDMPhy.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802.11_OFDMPhy.c(229): warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802.11_OFDMPhy.c(229,18): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+  IEEE802_11.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  IEEE802_11ac.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  IEEE802_11n.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  IEEE802_11_DSSSPhy.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11_DSSSPhy.c(168): warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11_DSSSPhy.c(168,18): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+  IEEE802_11_EDCAF.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  IEEE802_11_enum.c
+  IEEE802_11_HTPhy.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11_HTPhy.c(1220): warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11_HTPhy.c(1220,20): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+  IEEE802_11_Mac.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  IEEE802_11_MacFrame.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  IEEE802_11_Phy.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11_Phy.c(322): warning Msg: propagation_get_received_power_dbm function is deprcated. Use _propagation_get_received_power_dbm
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11_Phy.c(359): warning Msg: propagation_calculate_fadingloss function is deprcated. Use _propagation_calculate_fadingloss
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11_Phy.c(318,1): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11_Phy.c(355,1): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+  IEEE802_11_PhyFrame.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  IEEE802_11_Radio.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  InfrastructureBSS.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  MeshBSS.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Minstrel.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Minstrel_ht.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\Minstrel_ht.c(782): warning Msg: Implement the HT_Minstrel_Free
+  Generating Code...
+  Compiling...
+  PropagationModel.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\PropagationModel.c(48): warning Msg: get_tx_info function is deprcated. Use _get_tx_info
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\PropagationModel.c(51): warning Msg: propagation_calculate_received_power function is deprcated. Use _propagation_calculate_received_power
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\PropagationModel.c(53): warning Msg: get_tx_info function is deprcated. Use _get_tx_info
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\PropagationModel.c(56): warning Msg: propagation_calculate_received_power function is deprcated. Use _propagation_calculate_received_power
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\PropagationModel.c(48,21): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\PropagationModel.c(50,1): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\PropagationModel.c(53,12): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\PropagationModel.c(55,1): warning C4996: 'get_propagation_info': get_propagation_info is deprected.
+  RTS_CTS.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Watchdog.c
+C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\IEEE802_11.h(282,2): warning C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1316,5): warning MSB8012: TargetPath(C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\..\..\..\bin\bin_x64\IEEE802_11.dll) does not match the Linker's OutputFile property value (C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\bin\bin_x64\libIEEE802.11.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1318,5): warning MSB8012: TargetName(IEEE802_11) does not match the Linker's OutputFile property value (libIEEE802.11). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+CSMACA.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  IEEE802.11.lib(IEEE802.11lib.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+CSMACA.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library ..\..\..\bin\bin_x64\IEEE802_11.lib and object ..\..\..\bin\bin_x64\IEEE802_11.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+IEEE802.11.lib(IEEE802.11lib.obj) : warning LNK4099: PDB 'IEEE802.11lib.pdb' was not found with 'IEEE802.11.lib(IEEE802.11lib.obj)' or at 'C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\bin\bin_x64\IEEE802.11lib.pdb'; linking object as if no debug info
+IEEE802.11.lib(InterlayerCommunication.obj) : warning LNK4099: PDB 'IEEE802.11lib.pdb' was not found with 'IEEE802.11.lib(InterlayerCommunication.obj)' or at 'C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\bin\bin_x64\IEEE802.11lib.pdb'; linking object as if no debug info
+  IEEE802_11.vcxproj -> C:\Users\Hanuman\Desktop\Intrusion_Detection_Systems_for_MANETs_v12.2\IDS_MANETs_WorkSpace\src\Simulation\IEEE802_11\..\..\..\bin\bin_x64\IEEE802_11.dll
